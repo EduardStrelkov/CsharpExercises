@@ -1,0 +1,6 @@
+C:\Users\ste20\source\repos\Exercises\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\ste20\source\repos\Exercises\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\ste20\source\repos\Exercises\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\ste20\source\repos\Exercises\ConsoleApp9\obj\Debug\1.11.csproj.CoreCompileInputs.cache
+C:\Users\ste20\source\repos\Exercises\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\ste20\source\repos\Exercises\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
